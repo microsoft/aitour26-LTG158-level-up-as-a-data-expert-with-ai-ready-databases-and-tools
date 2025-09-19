@@ -4,34 +4,35 @@
 
 Prior to delivering the workshop please:
 
-1.  Read this document and all included resources included in their entirety.
-2.  Watch the video presentation
-3.  Ask questions of the content leads! We're here to help!
+1. Read this document and all included resources included in their entirety.
+2. Watch the video presentation
+3. Ask questions of the content leads! We're here to help!
 
 
 ## 📁 File Summary
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Workshop Slide Deck      |  [Presentation](https://aka.ms/)  | Presentation slides for this workshop with presenter notes and embedded demo video |
 | Session Delivery Deck     |  [Deck](https://aka.ms/) | The session delivery slides |
-| More Files     |  [Some More Files](https://aka.ms/) | More File Descriptions |
-
 
 ## 🚀Get Started
 
-The workshop is divided into multiple sections including 16 slides, 1 demo and 2 hands on labs.
+This is a 15‑minute talk with two short demos (no labs).
 
 ### 🕐Timing
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro and overview
-5:00 - 70:00  | Session Steps
-70:00 - 75:00 | Wrap up and Q&A
+0:00 - 2:00   | Intro and overview
+2:00 - 5:00   | Postgres vector support
+5:00 - 10:00  | Postgres AI support
+10:00 - 15:00 | Visual Studio Code extension support and conclusion
 
 ### 🏋️Preparation
-Preparation Notes go here
+
+- The slides include notes so get familiar with the content.
+- You don't need to run live the demos since they are included in the slide deck.
 
 ### 🖥️Demos
+
 Description of demos goes here

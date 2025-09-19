@@ -1,90 +1,41 @@
-# Welcome AI Tour 26 Creators!
-
-Thanks for creating content for AI Tour 26.
-
-One of our opportunities from FY25 was make a more consistent experience for attendees.  Following this template, and keeping users in these repos, will help us achieve this opportunity for this year's AI Tour.
-
-Steps:
-
-## Docs using MKDocs
-If you are interested in using mkdocs, this repo is configured for it.
-1. update the `mkdocs.yml` file to reference your session. Look particularly for the `site_name`, `site_author`, and `repo_name` tags.
-1. Subfolders in the docs folder will show up as tabs in the navigation bar.
-
-If you want to disable mkdocs:
-1. Delete the mkdocs.yml file. 
-1. Delete the references to it in [docs/README.md](./docs/README.md)
-1. Delete the docs/assets folder and its contents.
-
-## Other folders
-Note the data, docs, src, lab, session-delivery-resources folders. 
-1. Remove folders that you dont need.
-1. Please keep and use the folders that you do need.  e.g. put your data in the data folder, and put your docs in the docs folder.
-
-## Update Readme
-1. Fill out the content below in this file, below the banner graphic.
-
-## Update Repo Info
-
-1. Note the data, docs, src, lab, session-delivery-resources folders. 
-
-    1. Remove folders that you dont need, but please keep and use the folders that you do need.  e.g. put your data in the data folder, and put your docs in the docs folder.
-
-1. Fill out the content below in this file, below the banner graphic.
-
-1. Update the Repo Info for this repo 
-    1. Click the gear icon⚙️ in the upper right.
-    1. Set a good description of this repo.
-    1. Add the technologies that you're using in this session.  E.g. the same items that are in the Technologies Used section below.
-
-1. Please embed links to Learn with your campaign codes!
-
-## Slides and Recordings
-1. Do not store slides or recordings in this repo
-1. We will implement a similar solution to last year's with azure blob storage. When the time comes, link to these from the session-delivery-resources folder readme.
-
-## Questions?
-Send them to Mike Kinsman, Erik Weis, and cc Anthony Bartolo, or surface through your content lead.
-
-## Last step
-Delete this line and everything above it!
-
-
 <p align="center">
 <img src="img/Banner-MS-AI-Tour-26.png" alt="decorative banner" width="1200"/>
 </p>
 
 # [Microsoft AI Tour 2026](https://aitour.microsoft.com)
 
-## 🔥BRKXXX: Level up as a data expert with AI-ready databases and tools
+## ⚡️ LTG158: Level up as a data expert with AI-ready databases and tools
 
 If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
 
 ### Session Description
 
-*Add Session Description*
+Learn how AI is transforming Azure Database for PostgreSQL with vector support, indexes, and Visual Studio tools. Discover how to build AI-powered apps in minutes using new features that boost data interaction, understanding, and optimization.
 
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+- Understand vector support and vector indexes in Azure Database for PostgreSQL.
+- Use the PostgreSQL AI extension to connect PostgreSQL with Azure AI Services and Azure OpenAI.
+- Understand semantic operators and how to integrate AI apps and agents with PostgreSQL.
+- Become familiar with the PostgreSQL extension for Visual Studio Code and its agent mode.
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Azure Database for PostgreSQL
+1. Azure AI Services and the PostgreSQL AI extension
+1. Visual Studio Code and the PostgreSQL for Visual Studio Code extension.
 
 ### 🔗 Session Resources
+
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Additional Resources for this session | [https://learn.microsoft.com](https://learn.microsoft.com?ocid=AITour26_resourcecenter_cnl) | Links specific to this session |
 
 ### 📚 Continued Learning Resources
+
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | AI Tour 2026 Resource Center | [https://aka.ms/AITour26-Resource-Center](https://aka.ms/AITour26-Resource-Center?ocid=AITour26_resourcecenter_cnl) | Links to all repos for AI Tour 26 Sessions |
@@ -97,33 +48,22 @@ By the end of this session, learners will be able to:
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-
 <table>
-<tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
-"/><br />
-        <sub><b> INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
-</tr></table>
+    <tr>
+        <td align="center"><a href="http://github.com/iemejia">
+            <img src="https://github.com/iemejia.png" width="100px;" alt="Ismaël Mejía"/><br />
+            <sub><b> Ismaël Mejía</b></sub></a><br />
+                <a href="https://github.com/iemejia" title="talk">📢</a>
+        </td>
+        <td align="center"><a href="http://github.com/toolboc">
+            <img src="https://github.com/toolboc.png" width="100px;" alt="Paul DeCarlo"/><br />
+            <sub><b>Paul DeCarlo</b></sub></a><br />
+                <a href="https://github.com/toolboc" title="talk">📢</a>
+        </td>
+    </tr>
+</table>
 
-## 
-
-## Responsible AI 
+## Responsible AI
 
 Microsoft is committed to helping our customers use our AI products responsibly, sharing our learnings, and building trust-based partnerships through tools like Transparency Notes and Impact Assessments. Many of these resources can be found at [https://aka.ms/RAI](https://aka.ms/RAI).
 Microsoft’s approach to responsible AI is grounded in our AI principles of fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
