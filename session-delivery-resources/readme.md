@@ -14,8 +14,8 @@ Prior to delivering the workshop please:
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Session Delivery Deck     |  [Deck](https://aka.ms/AAy25c0) | The session delivery slides |
-| Demo 1: Agentic Shop Recording | [Demo Recording](https://aka.ms/AAy1xkd) | Agentic Shop Demo Recording |
-| Demo 2: VSCode and Postgres Recording  | [Demo Recording](https://aka.ms/AAy1xke) | VSCode Demo |
+| Demo 1: Agentic Shop Recording | [Demo 1 Recording](https://aka.ms/AAy1xkd) | Agentic Shop Demo Recording |
+| Demo 2: VSCode and Postgres Recording  | [Demo 2 Recording](https://aka.ms/AAy1xke) | VSCode Demo |
 
 ## 🚀Get Started
 
