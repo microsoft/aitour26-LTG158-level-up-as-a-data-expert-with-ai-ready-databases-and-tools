@@ -12,7 +12,6 @@ If you will be delivering this session, check the [session-delivery-sources](./s
 
 Learn how AI is transforming Azure Database for PostgreSQL with vector support, indexes, and Visual Studio tools. Discover how to build AI-powered apps in minutes using new features that boost data interaction, understanding, and optimization.
 
-
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
