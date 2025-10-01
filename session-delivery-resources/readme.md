@@ -39,4 +39,5 @@ This is a 15‑minute talk with two short demos (no labs).
 
 ### 🖥️ Demos
 
-Description of demos goes here
+- **Demo 1:** To reproduce this demo, run the [PostgreSQL Agentic Shop](https://aka.ms/postgresql-agentic-shop) demo app and follow the outlined steps.
+- **Demo 2:** Install the [Visual Studio Code extension for PostgreSQL](https://aka.ms/aitour26-postgres-vscode-extension) and launch VS Code in Agent mode and follow the demo steps. Note that results may vary due to the dynamic nature of Agentic AI.
